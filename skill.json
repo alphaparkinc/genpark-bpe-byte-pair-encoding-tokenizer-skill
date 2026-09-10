@@ -1,0 +1,17 @@
+{
+  "name": "genpark-bpe-byte-pair-encoding-tokenizer-skill",
+  "version": "1.0.0",
+  "description": "Byte-Pair Encoding (BPE) subword tokenizer implementing corpus pair statistics, iterative vocabulary merges, and greedy token segmentation.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bpe",
+    "byte-pair-encoding",
+    "tokenizer",
+    "subword-tokenization",
+    "llm-preprocessing"
+  ],
+  "dependencies": []
+}
